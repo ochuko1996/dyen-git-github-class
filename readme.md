@@ -21,7 +21,11 @@
 
 # watch out for U - Untracked, M - Modified, A - Added
 
-<!-- git add {file or command} -->
-<!-- git status -->
-<!-- git commit -m "first commit" -->
-<!-- git push or git push --set-upstream origin main  -->
+Untracked Unstage Stage
+git add {file or command add . or add --all}
+git status
+git commit -m "first commit"
+git log
+git push -u origin main or git push or git push --set-upstream origin main
+git clone
+git pull
